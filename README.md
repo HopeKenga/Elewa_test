@@ -1,2 +1,2 @@
 # Elewa_test
-Sorefront test from Elewa.
+Storefront test from Elewa.
